@@ -31,16 +31,15 @@ Below are some example images with their corresponding predictions:
 
 
 #### Normal Brain Scan
-(![Screenshot 2025-02-23 100007](https://github.com/user-attachments/assets/eaed588e-4471-4a45-9ef5-42eb7822bcb5)
-)
+![Screenshot 2025-02-23 100007](https://github.com/user-attachments/assets/eaed588e-4471-4a45-9ef5-42eb7822bcb5)
 
 #### Tumor-Affected Brain Scan
-![Tumor Brain Scan](![Screenshot 2025-02-23 095921](https://github.com/user-attachments/assets/cd28addf-3071-43b2-8659-aa5a2bbfbebb)
-)
+![Screenshot 2025-02-23 095921](https://github.com/user-attachments/assets/cd28addf-3071-43b2-8659-aa5a2bbfbebb)
+
 
 #### Web Interface Prediction Example
-![Web Prediction](![Screenshot 2025-02-23 095836](https://github.com/user-attachments/assets/5f1b814e-6f4d-40c0-86fe-958185171ca0)
-)
+![Screenshot 2025-02-23 095836](https://github.com/user-attachments/assets/5f1b814e-6f4d-40c0-86fe-958185171ca0)
+
 
 ## Web Deployment
 The project is deployed using Render at:
