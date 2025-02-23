@@ -51,7 +51,7 @@ The project is deployed using Render at:
 - Deploy as a mobile app for easy accessibility
 
 ## Contributors
-- **[S JAHAGANAPATHI]** - Developer
+- **S JAHAGANAPATHI** - Developer
 
 ## Acknowledgments
 Special thanks to open-source contributors and medical imaging datasets used in this project.
