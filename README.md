@@ -31,7 +31,7 @@ Below are some example images with their corresponding predictions:
 
 
 #### Normal Brain Scan
-![Normal Brain Scan](![Screenshot 2025-02-23 100007](https://github.com/user-attachments/assets/eaed588e-4471-4a45-9ef5-42eb7822bcb5)
+(![Screenshot 2025-02-23 100007](https://github.com/user-attachments/assets/eaed588e-4471-4a45-9ef5-42eb7822bcb5)
 )
 
 #### Tumor-Affected Brain Scan
